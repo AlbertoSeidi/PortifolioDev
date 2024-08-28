@@ -1,0 +1,15 @@
+.flex {
+  display: flex;
+}
+
+.grid {
+  display: grid;
+}
+
+.temp-col-3 {
+  grid-template-columns: repeat(3, 330px);
+}
+
+.gap-24 {
+  gap: 24px;
+}

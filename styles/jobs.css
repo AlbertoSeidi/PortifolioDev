@@ -1,0 +1,52 @@
+.jobs {
+  padding: 72px 120px;
+  background: var(--gray-200);
+
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+
+  h2 {
+    color: var(--red);
+    font: var(--subtitle);
+    padding-bottom: 8px;
+  }
+
+  span {
+    font: var(--title-bold-md);
+    color: var(--gray-600);
+    padding-bottom: 56px;
+  }
+
+  .cards {
+    position: relative;
+  }
+
+  .card {
+    background: var(--gray-300);
+    border-radius: 12px;
+    padding: 12px;
+
+    figcaption {
+      gap: 8px;
+    }
+
+    img {
+      width: 306px;
+      height: 156px;
+      padding-bottom: 20px;
+    }
+    h2 {
+      color: var(--gray-600);
+      font: var(--title-bold-sm);
+    }
+    span {
+      color: var(--gray-500);
+      font: var(--text-sm);
+    }
+  }
+
+  img {
+    border-radius: 8px;
+  }
+}
