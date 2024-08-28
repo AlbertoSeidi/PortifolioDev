@@ -26,7 +26,7 @@
   --title-bold-md: 700 24px/120% var(--font-family-Asap);
   --title-bold-sm: 700 16px/120% var(--font-family-Asap);
 
-  --subtitle: 400 20px/120% var(--font-family-MavenPro);
+  --subtitle: 400 20px/120% var(--font-family-Inconsolata);
   --text-md: 400 16px/140% var(--font-family-MavenPro);
   --text-sm: 400 14px/140% var(--font-family-MavenPro);
 }
