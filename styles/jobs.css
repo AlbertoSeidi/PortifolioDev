@@ -19,6 +19,10 @@
     }
   }
 
+  figure:hover {
+    border: 1.5px solid var(--gray-400);
+  }
+
   img {
     border-radius: 8px;
   }
