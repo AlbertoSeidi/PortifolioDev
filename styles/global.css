@@ -29,6 +29,7 @@
   --subtitle: 400 20px/120% var(--font-family-Inconsolata);
   --text-md: 400 16px/140% var(--font-family-MavenPro);
   --text-sm: 400 14px/140% var(--font-family-MavenPro);
+  --text-social: 500 16px/140% var(--font-family-MavenPro);
 }
 
 body {
